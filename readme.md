@@ -24,6 +24,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Hawthorne Effect](#hawthorne-effect)
   - [Fregoli Delusion](#fregoli-delusion)
   - [Zeigarnik Effect](#zeigarnik-effect)
+  - [Placebo Effect](#placebo-effect)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -188,7 +189,8 @@ The syndrome may be related to a brain lesion and is often of a paranoid nature,
 with the delusional person believing themselves persecuted by the person they
 believe is in disguise.
 
-[R: Fregoli Delusion](https://www.ncbi.nlm.nih.gov/pubmed/25219764)
+[R: Fregoli Delusion](https://delusionaldisorders.wordpress.com/2013/11/04/what-is-fregoli-delusion/)
+[R: glennmillermd.com](http://glennmillermd.com/the-fregoli-delusion/)
 
 #### [Zeigarnik Effect](https://en.wikipedia.org/wiki/Zeigarnik_effect)
 
@@ -206,6 +208,24 @@ able to complete undisturbed.
 
 [R: spring.org.uk](http://www.spring.org.uk/2011/02/the-zeigarnik-effect.php)
 [R: goodtherapy.org](https://www.goodtherapy.org/blog/psychpedia/zeigarnik-effect)
+
+#### [Placebo Effect](https://en.wikipedia.org/wiki/Placebo)
+
+> Belief in a treatment may be enough to change the course of a person's physical illness.
+
+A placebo is a substance or treatment with no active therapeutic effect. A
+placebo may be given to a person in order to deceive the recipient into thinking
+that it is an active treatment. In drug testing and medical research, a placebo
+can be made to resemble an active medication or therapy so that it functions as
+a control; this is to prevent the recipient(s) and/or others from knowing
+whether a treatment is active or inactive, as expectations about efficacy can
+influence results. In a broad sense, the effect may be viewed as an improvement
+in patients' symptoms that are attributable to their participation in the
+therapeutic encounter, with it's rituals, symbols, and interactions.
+
+[R: Placebo Effects in Medicine](http://www.nejm.org/doi/full/10.1056/NEJMp1504023)
+
+[R: betterhealth.vic.gov.au](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/placebo-effect)
 
 ***
 
