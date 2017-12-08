@@ -192,7 +192,7 @@ believe is in disguise.
 
 #### [Zeigarnik Effect](https://en.wikipedia.org/wiki/Zeigarnik_effect)
 
-> People remember uncompleted or interrupted tasks better than completed tasks!
+> People remember uncompleted or interrupted tasks better than completed ones!
 
 Lithuanian psychologist Bluma Zeigarnik observed the effect of interruption on
 memory processing in 1927. Whilst studying at the University of Berlin, her professor,
@@ -203,6 +203,9 @@ her findings in “On Finished and Unfinished Tasks” in 1927.
 Zeigarnik’s initial findings revealed that participants were able to recall
 details of interrupted tasks around 90% better than those that they had been
 able to complete undisturbed.
+
+[R: spring.org.uk](http://www.spring.org.uk/2011/02/the-zeigarnik-effect.php)
+[R: goodtherapy.org](https://www.goodtherapy.org/blog/psychpedia/zeigarnik-effect)
 
 ***
 
