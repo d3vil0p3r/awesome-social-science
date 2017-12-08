@@ -22,6 +22,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Golem Effect](#golem-effect)
   - [Capgras Syndrome](#capgras-syndrome)
   - [Hawthorne Effect](#hawthorne-effect)
+  - [Fregoli Delusion](#fregoli-delusion)
 
 ## Aphorisms / Adages / Epigrams
 
