@@ -23,6 +23,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Capgras Syndrome](#capgras-syndrome)
   - [Hawthorne Effect](#hawthorne-effect)
   - [Fregoli Delusion](#fregoli-delusion)
+  - [Zeigarnik Effect](#zeigarnik-effect)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -188,6 +189,20 @@ with the delusional person believing themselves persecuted by the person they
 believe is in disguise.
 
 [R: Fregoli Delusion](https://www.ncbi.nlm.nih.gov/pubmed/25219764)
+
+#### [Zeigarnik Effect](https://en.wikipedia.org/wiki/Zeigarnik_effect)
+
+> People remember uncompleted or interrupted tasks better than completed tasks!
+
+Lithuanian psychologist Bluma Zeigarnik observed the effect of interruption on
+memory processing in 1927. Whilst studying at the University of Berlin, her professor,
+Kurt Lewin, had noted how waiters in a cafe seemed to remember incomplete tabs more
+efficiently than those that had been paid for and were complete.
+Zeigarnik decided to test this hypothesis in an experimental setting, and published
+her findings in “On Finished and Unfinished Tasks” in 1927.
+Zeigarnik’s initial findings revealed that participants were able to recall
+details of interrupted tasks around 90% better than those that they had been
+able to complete undisturbed.
 
 ***
 
