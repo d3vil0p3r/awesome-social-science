@@ -23,7 +23,6 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Capgras Syndrome](#capgras-syndrome)
   - [Hawthorne Effect](#hawthorne-effect)
   - [Fregoli Delusion](#fregoli-delusion)
-  - [Zeigarnik Effect](#zeigarnik-effect)
   - [Placebo Effect](#placebo-effect)
 
 ## Aphorisms / Adages / Epigrams
@@ -183,7 +182,7 @@ the anecdote, you can throw away the data."
 
 > Belief that different people are in fact the same!
 
-Its a rare disorder in which a person holds a delusional belief that different
+It's a rare disorder in which a person holds a delusional belief that different
 people are in fact a single person who changes appearance or is in disguise!
 The syndrome may be related to a brain lesion and is often of a paranoid nature,
 with the delusional person believing themselves persecuted by the person they
@@ -191,23 +190,6 @@ believe is in disguise.
 
 [R: Fregoli Delusion](https://delusionaldisorders.wordpress.com/2013/11/04/what-is-fregoli-delusion/)
 [R: glennmillermd.com](http://glennmillermd.com/the-fregoli-delusion/)
-
-#### [Zeigarnik Effect](https://en.wikipedia.org/wiki/Zeigarnik_effect)
-
-> People remember uncompleted or interrupted tasks better than completed ones!
-
-Lithuanian psychologist Bluma Zeigarnik observed the effect of interruption on
-memory processing in 1927. Whilst studying at the University of Berlin, her professor,
-Kurt Lewin, had noted how waiters in a cafe seemed to remember incomplete tabs more
-efficiently than those that had been paid for and were complete.
-Zeigarnik decided to test this hypothesis in an experimental setting, and published
-her findings in “On Finished and Unfinished Tasks” in 1927.
-Zeigarnik’s initial findings revealed that participants were able to recall
-details of interrupted tasks around 90% better than those that they had been
-able to complete undisturbed.
-
-[R: spring.org.uk](http://www.spring.org.uk/2011/02/the-zeigarnik-effect.php)
-[R: goodtherapy.org](https://www.goodtherapy.org/blog/psychpedia/zeigarnik-effect)
 
 #### [Placebo Effect](https://en.wikipedia.org/wiki/Placebo)
 
