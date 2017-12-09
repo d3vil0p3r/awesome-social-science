@@ -186,9 +186,12 @@ It's a rare disorder in which a person holds a delusional belief that different
 people are in fact a single person who changes appearance or is in disguise!
 The syndrome may be related to a brain lesion and is often of a paranoid nature,
 with the delusional person believing themselves persecuted by the person they
-believe is in disguise.
+believe is in disguise. This delusion is related to [Capgras delusion](#capgras-syndrome).
+Psychiatrists believe it is the result of troubles with facial perception, 
+which can be caused by traumatic brain injury.
 
 [R: Fregoli Delusion](https://delusionaldisorders.wordpress.com/2013/11/04/what-is-fregoli-delusion/)
+
 [R: glennmillermd.com](http://glennmillermd.com/the-fregoli-delusion/)
 
 #### [Placebo Effect](https://en.wikipedia.org/wiki/Placebo)
