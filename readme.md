@@ -22,6 +22,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Golem Effect](#golem-effect)
   - [Capgras Syndrome](#capgras-syndrome)
   - [Hawthorne Effect](#hawthorne-effect)
+  - [Cotard Delusion](#cotard_delusion)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -66,10 +67,10 @@ that one life-changing email.)
 
 In many newsgroups, it is a tradition in which whoever mentions the Nazis automatically
 loses the debate that was going on, and the thread is finished there and then. Also, popularly
-referred to as `Playing the Hitler card`. 
+referred to as `Playing the Hitler card`.
 
-> It was difficult, after attempting a greater psychological understanding of why the Holocaust 
-> happened and how it was conducted, to tolerate the glib comparisons I encountered on the Internet 
+> It was difficult, after attempting a greater psychological understanding of why the Holocaust
+> happened and how it was conducted, to tolerate the glib comparisons I encountered on the Internet
 > (Usenet in those days) - Mike Godwin
 
 [R: Mike Godwin on 18 years of Godwin's law](http://jewcy.com/jewish-arts-and-culture/i_seem_be_verb_18_years_godwins_law)
@@ -176,6 +177,21 @@ the anecdote, you can throw away the data."
 
 [R: verywell.com](https://www.verywell.com/what-is-the-hawthorne-effect-2795234)
 
+#### [Cotard Delusion](https://en.wikipedia.org/wiki/Cotard_delusion)
+
+> A rare mental disorder where the patient thinks he/she is dead or is missing some of his/her organs.
+
+Also known as Walking Corpse Syndrome,is a rare mental disorder in which a person
+mistakenly believes that he or she is dead, does not exist, putrefying. Patient
+claims that does not have internal organs or blood. The illness can be simply described
+as the denial of self-existence. Some patients may have delusions of immortality.
+The Cotard syndrome withdraws the afflicted person from other people due to the neglect of
+their personal hygiene and physical health. The delusion of negation of self prevents the
+patient from making sense of external reality, which then produces a distorted view of
+the external world.
+
+[R: thesun.co.uk](https://www.thesun.co.uk/living/2303771/what-is-cotards-delusion-what-are-the-symptoms-and-why-is-it-called-walking-corpse-syndrome/)
+[R: medigoo.com](https://www.medigoo.com/articles/cotards-delusion/)
 
 ***
 
