@@ -22,6 +22,12 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Golem Effect](#golem-effect)
   - [Capgras Syndrome](#capgras-syndrome)
   - [Hawthorne Effect](#hawthorne-effect)
+  - [Fregoli Delusion](#fregoli-delusion)
+  - [Placebo Effect](#placebo-effect)
+  - [Synesthesia](#synesthesia)
+  - [Bystander Effect](#bystander-effect)
+  - [Munchausen syndrome](#munchausen-syndrome)
+  - [Munchausen syndrome by proxy](#munchausen-syndrome-by-proxy)
   - [Cotard Delusion](#cotard_delusion)
 
 ## Aphorisms / Adages / Epigrams
@@ -176,6 +182,115 @@ the anecdote, you can throw away the data."
 [R: explorable.com](https://explorable.com/hawthorne-effect)
 
 [R: verywell.com](https://www.verywell.com/what-is-the-hawthorne-effect-2795234)
+
+#### [Fregoli Delusion](https://en.wikipedia.org/wiki/Fregoli_delusion)
+
+> Belief that different people are in fact the same!
+
+It is a rare disorder in which a person holds a delusional belief that different
+people are in fact a single person who changes appearance or is in disguise!
+The syndrome may be related to a brain lesion and is often of a paranoid nature,
+with the delusional person believing themselves persecuted by the person they
+believe is in disguise. This delusion is related to [Capgras
+delusion](#capgras-syndrome).  Psychiatrists believe it is the result of
+troubles with facial perception, which can be caused by traumatic brain injury.
+
+[R: delusionaldisorders.wordpress.com](https://delusionaldisorders.wordpress.com/2013/11/04/what-is-fregoli-delusion/)
+
+[R: glennmillermd.com](http://glennmillermd.com/the-fregoli-delusion/)
+
+#### [Placebo Effect](https://en.wikipedia.org/wiki/Placebo)
+
+> Belief in a treatment may be enough to change the course of a person's physical illness.
+
+A placebo is a substance or treatment with no active therapeutic effect. A
+placebo may be given to a person in order to deceive the recipient into thinking
+that it is an active treatment. In drug testing and medical research, a placebo
+can be made to resemble an active medication or therapy so that it functions as
+a control; this is to prevent the recipient(s) and/or others from knowing
+whether a treatment is active or inactive, as expectations about efficacy can
+influence results. In a broad sense, the effect may be viewed as an improvement
+in patients' symptoms that are attributable to their participation in the
+therapeutic encounter, with it's rituals, symbols, and interactions.
+
+[R: Placebo Effects in Medicine](http://www.nejm.org/doi/full/10.1056/NEJMp1504023)
+
+[R: betterhealth.vic.gov.au](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/placebo-effect)
+
+#### [Synesthesia](https://en.wikipedia.org/wiki/Synesthesia)
+
+> When stimulation of one sense leads to involuntary experiences in another sense
+
+This neurological phenomenon occurs when stimulation of one sense leads to
+involuntary experiences in another sense or a "union of the senses" where for
+example taste and sound are joined together.  Some people experience color when
+they hear sounds or read words and may be able to answer a question like "What
+color is A?" Over 60 types of Synesthesia have been reported. Approximately 1 in
+2000 people are believed to have Synesthesia.
+
+[R: scientificamerican.com](https://www.scientificamerican.com/article/what-is-synesthesia)
+
+[R: apa.org](https://www.apa.org/monitor/mar01/synesthesia.aspx)
+
+#### [Bystander Effect](https://en.wikipedia.org/wiki/Bystander_effect)
+
+> Phenomenon in which individuals are less likely to offer help to a victim when
+> other people are present
+
+![bystander](./img/bystander-effect.jpg)
+
+This effect occurs when the presence of others discourages an individual from
+intervening in an emergency situation. When an emergency situation occurs,
+observers are more likely to take action if there are few or no other witnesses.
+Being part of a large crowd makes it so no single person has to take
+responsibility for an action. Knowing that the bystander effect exists
+consciously is thought to be enough to prevent it from happening when one is a
+bystander in a situation where a victim needs help. If you are the victim
+seeking help, singling out one person in the crowd and appealing to them for
+help is often recommended as the best strategy to get any required assistance.
+
+[R :verywell.com](https://www.verywell.com/the-bystander-effect-2795899)
+
+[R :thehindu.com](http://www.thehindu.com/opinion/op-ed/bystander-effect-psychology/article17545542.ece)
+
+#### [Munchausen syndrome](https://en.wikipedia.org/wiki/Factitious_disorder_imposed_on_self)
+
+> Person pretends to have a physical or mental illness in an attempt to get
+> seek attention
+
+![munchausen](./img/munchausen-syndrome.png)
+
+Munchausen's syndrome is a psychological and behavioural condition where someone
+pretends to be ill or induces symptoms of illness in themselves. Their main
+intention is to assume the "sick role" to have people care for them and be the
+centre of attention. People with this disorder are often willing to undergo
+painful and risky tests in order to get the sympathy and special attention given
+to people who are truly ill. People suffering from this syndrome suffer from
+severe emotional difficulties.
+
+[R: nhs.uk](https://www.nhs.uk/conditions/munchausens-syndrome/)
+
+[R: my.clevelandclinic.org](https://my.clevelandclinic.org/health/articles/munchausen-syndrome)
+
+
+#### [Munchausen syndrome by proxy](https://en.wikipedia.org/wiki/Factitious_disorder_imposed_on_another)
+
+> Person acts as if an individual he or she is caring for has an illness when
+> the person is not really sick.
+
+![munchausen-by-proxy](./img/munchausen-by-proxy.png)
+
+Munchausen by proxy syndrome is a relatively rare form of child abuse that
+involves the exaggeration or fabrication of illnesses or symptoms by a primary
+caretaker. The adult perpetrator lies about illness in another person under his
+or her care, usually a child under 6 years of age. The female antagonist of the
+book [Sharp Objects by Gillian
+Flynn](https://www.goodreads.com/book/show/18045891-sharp-objects) suffered from
+this disorder.
+
+[R: healthline.com](https://www.healthline.com/health/munchausen-syndrome-by-proxy)
+
+[R: medicinet.com](https://www.medicinenet.com/munchausen_syndrome_by_proxy/article.htm)
 
 #### [Cotard Delusion](https://en.wikipedia.org/wiki/Cotard_delusion)
 
